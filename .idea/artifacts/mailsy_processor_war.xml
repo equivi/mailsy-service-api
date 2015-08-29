@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mailsy-processor:war">
+    <output-path>$PROJECT_DIR$/../mailsy-processor/target</output-path>
+    <root id="archive" name="mailsy-processor.war">
+      <element id="artifact" artifact-name="mailsy-processor:war exploded" />
+    </root>
+  </artifact>
+</component>

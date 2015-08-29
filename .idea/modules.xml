@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mailsy-data-access/mailsy-data-access.iml" filepath="$PROJECT_DIR$/../mailsy-data-access/mailsy-data-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mailsy-processor/mailsy-processor.iml" filepath="$PROJECT_DIR$/../mailsy-processor/mailsy-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailsy-service-api.iml" filepath="$PROJECT_DIR$/mailsy-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mailsy-web/mailsy-web.iml" filepath="$PROJECT_DIR$/../mailsy-web/mailsy-web.iml" />
+    </modules>
+  </component>
+</project>
